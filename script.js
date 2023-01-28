@@ -20,4 +20,3 @@ function pepe(){
     
 }, 500);
 }
-//class="LRn4mf tmS4cc"
